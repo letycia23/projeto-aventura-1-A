@@ -1,0 +1,16 @@
+body {
+    background-color:#afee;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+      background-color:#adff;
+      color:aliceblue;
+      font-family: "Open Sans", sans-serif;
+}
